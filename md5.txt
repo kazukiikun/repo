@@ -1,0 +1,4 @@
+14ba7b6a2b1a94a279ded5c45b74ac83  fwu.sh
+a95fc3ffb0b3cc16eae3cae152fb123f  rootfs
+b3cddc1519a025fc443571bf1bb6e1ad  uImage
+7c451f6d9545227200c5283768b55b2b  fwu_ver
